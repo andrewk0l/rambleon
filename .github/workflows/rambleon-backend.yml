@@ -21,8 +21,8 @@ jobs:
       with:
         dotnet-version: 10.0.x
     - name: Restore dependencies
-      run:  dotnet restore ./backend/src/RambleOn.Api/RambleOn.Api.csproj
+      run:  dotnet restore ./backend/src/RambleOn.WebApi/RambleOn.WebApi.csproj
     - name: Build
-      run: dotnet build ./backend/src/RambleOn.Api/RambleOn.Api.csproj --no-restore
+      run: dotnet build ./backend/src/RambleOn.WebApi/RambleOn.WebApi.csproj --no-restore
     - name: Test
-      run: dotnet test ./backend/src/RambleOn.Api/RambleOn.Api.csproj --no-build --verbosity normal
+      run: dotnet test ./backend/src/RambleOn.WebApi/RambleOn.WebApi.csproj --no-build --verbosity normal

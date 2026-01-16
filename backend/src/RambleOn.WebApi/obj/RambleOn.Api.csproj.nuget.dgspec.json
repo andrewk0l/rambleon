@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tayooged/rambleon/backend/src/RambleOn.Api/RambleOn.Api.csproj": {}
+    "/Users/tayooged/rambleon/backend/src/RambleOn.WebApi/RambleOn.Api.csproj": {}
   },
   "projects": {
-    "/Users/tayooged/rambleon/backend/src/RambleOn.Api/RambleOn.Api.csproj": {
+    "/Users/tayooged/rambleon/backend/src/RambleOn.WebApi/RambleOn.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tayooged/rambleon/backend/src/RambleOn.Api/RambleOn.Api.csproj",
+        "projectUniqueName": "/Users/tayooged/rambleon/backend/src/RambleOn.WebApi/RambleOn.Api.csproj",
         "projectName": "RambleOn.Api",
-        "projectPath": "/Users/tayooged/rambleon/backend/src/RambleOn.Api/RambleOn.Api.csproj",
+        "projectPath": "/Users/tayooged/rambleon/backend/src/RambleOn.WebApi/RambleOn.Api.csproj",
         "packagesPath": "/Users/tayooged/.nuget/packages/",
-        "outputPath": "/Users/tayooged/rambleon/backend/src/RambleOn.Api/obj/",
+        "outputPath": "/Users/tayooged/rambleon/backend/src/RambleOn.WebApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tayooged/.nuget/NuGet/NuGet.Config"
