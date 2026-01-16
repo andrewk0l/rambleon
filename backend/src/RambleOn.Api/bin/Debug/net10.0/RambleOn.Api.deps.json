@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "Rambleon.Api/1.0.0": {
+      "RambleOn.Api/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.Google": "10.0.2",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "10.0.2",
@@ -15,7 +15,7 @@
           "Npgsql.EntityFrameworkCore.PostgreSQL": "10.0.0"
         },
         "runtime": {
-          "Rambleon.Api.dll": {}
+          "RambleOn.Api.dll": {}
         }
       },
       "Humanizer.Core/2.14.1": {
@@ -596,7 +596,7 @@
     }
   },
   "libraries": {
-    "Rambleon.Api/1.0.0": {
+    "RambleOn.Api/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
