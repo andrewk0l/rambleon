@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tayooged/rambleon/backend/src/RambleOn.Api/Rambleon.Api.csproj": {}
+    "/Users/tayooged/rambleon/backend/src/RambleOn.Api/RambleOn.Api.csproj": {}
   },
   "projects": {
-    "/Users/tayooged/rambleon/backend/src/RambleOn.Api/Rambleon.Api.csproj": {
+    "/Users/tayooged/rambleon/backend/src/RambleOn.Api/RambleOn.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tayooged/rambleon/backend/src/RambleOn.Api/Rambleon.Api.csproj",
-        "projectName": "Rambleon.Api",
-        "projectPath": "/Users/tayooged/rambleon/backend/src/RambleOn.Api/Rambleon.Api.csproj",
+        "projectUniqueName": "/Users/tayooged/rambleon/backend/src/RambleOn.Api/RambleOn.Api.csproj",
+        "projectName": "RambleOn.Api",
+        "projectPath": "/Users/tayooged/rambleon/backend/src/RambleOn.Api/RambleOn.Api.csproj",
         "packagesPath": "/Users/tayooged/.nuget/packages/",
         "outputPath": "/Users/tayooged/rambleon/backend/src/RambleOn.Api/obj/",
         "projectStyle": "PackageReference",
