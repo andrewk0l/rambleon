@@ -23,6 +23,6 @@ jobs:
     - name: Restore dependencies
       run:  dotnet restore ./backend/src/RambleOn.Api/RambleOn.Api.csproj
     - name: Build
-      run: dotnet build ./backend/src/RambleOn.Api/RambleOn.Api.csproj--no-restore
+      run: dotnet build ./backend/src/RambleOn.Api/RambleOn.Api.csproj --no-restore
     - name: Test
       run: dotnet test ./backend/src/RambleOn.Api/RambleOn.Api.csproj --no-build --verbosity normal
