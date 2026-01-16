@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RambleOn.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cdf3d49621f790721035e72cf9c68a3b6c4d71a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+256340dedee1bafae5447f0dfb53928d5a5b5058")]
 [assembly: System.Reflection.AssemblyProductAttribute("RambleOn.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RambleOn.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
